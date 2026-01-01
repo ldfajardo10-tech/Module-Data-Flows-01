@@ -11,3 +11,4 @@ Write an function that makes an API call to `https://xkcd.now.sh/?comic=latest`
 - Log the received data to the console
 - Render the `img` property into an `<img>` tag in the DOM
 - Incorporate error handling
+
